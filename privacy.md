@@ -10,13 +10,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Nothing. The information that we request will be retained by us and used as described in this privacy policy.
-
-The app does use third-party services that may collect information used to identify you.
-
-Link to the privacy policy of third-party service providers used by the app
-
-*   [Google Play Services](https://www.google.com/policies/privacy/)
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to phone number. The information that we request will be retained by us and used as described in this privacy policy.
 
 **Log Data**
 
